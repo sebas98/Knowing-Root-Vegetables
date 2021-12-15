@@ -50,3 +50,26 @@ html {
   ================================================ */
   /* Add your CSS for the site here */
 
+ /*======Recipes Page CSS by Dingyu ==========*/
+ .d_recipes_wrapper{
+  display: flex;
+  
+  }
+    .d_prepar,.d_ingre{
+  font-size: 16px;
+  }
+  .d_fig{
+    font-size: 10px;
+    color: gray;
+  }
+  .d_recipes_card{
+    width: 50%;
+    height: auto;
+    background-color:white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 1em;
+    margin: 0.25em;
+    border-radius: 25px;
+  
+  }
+/* =============End Dingyu's Css=================   */
