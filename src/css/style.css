@@ -53,6 +53,7 @@ html {
  /*======Recipes Page CSS by Dingyu ==========*/
  .d_recipes_wrapper{
   display: flex;
+  flex-direction: column;
   
   }
     .d_prepar,.d_ingre{
@@ -63,7 +64,7 @@ html {
     color: gray;
   }
   .d_recipes_card{
-    width: 50%;
+    width: 80%;
     height: auto;
     background-color:white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -71,5 +72,23 @@ html {
     margin: 0.25em;
     border-radius: 25px;
   
+  }
+
+  /* ======= nutritional page css bu Dingyu ====== */
+  .d_nutri_warp{
+    display: flex;
+    flex-direction: column;
+  }
+  .d_card{
+    width: 80%;
+    height: auto;
+    background-color:white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 1em;
+    margin: 0.25em;
+    border-radius: 25px;
+  }
+  .d_nutri_img img{
+    height: 500px;
   }
 /* =============End Dingyu's Css=================   */
