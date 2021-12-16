@@ -17,6 +17,7 @@ html {
     height: auto;
     max-width: 100%;
   }
+
   
   /* ======== Responsive Embedded Video ================= */
   /* to use this add a div with class videoWrapper around the iframe markup copied from YouTube or Vimeo. Then also add a ratio-16-9 (most common) or ratio-4-3 class to the wrapper depending on the aspect ratio of your video */
@@ -90,5 +91,6 @@ html {
   }
   .d_nutri_img img{
     height: 500px;
+  
   }
 /* =============End Dingyu's Css=================   */

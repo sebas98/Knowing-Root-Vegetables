@@ -137,6 +137,75 @@ French Fries<h1>
  <cite>Article<a href="https://www.foodista.com/recipe/XKK2N6KB/mashed-potato">Mashed Potato</a>from foodista</cite> </figcaption>
 </div>
 
+<div class="d_recipes_card">
+<h1 class="d_recipes_title">
+Ginger Lemongrass Tea Recipe<h1>
+<figure class="d_recipes_img">
+<img src="/images/pexels-cup-of-couple-6962409.jpeg"
+ alt="potato chips">
+ <figcaption class="d_fig">
+ <cite>Photo by<a href="https://www.pexels.com/photo/person-holding-putting-sliced-ginger-in-a-cup-of-water-6962409//">Cup of Couple</a>from Pexels</cite> </figcaption>
+
+</figure>
+
+<ul class="d_ingre">
+
+<li>1 cup water</li>
+<li>1 tsp grated ginger</li>
+<li>1 ½ - 2 tsp chopped lemongrass</li>
+<li>1 tsp tea leaves (DARJEELING TEA)</li>
+<li>Sugar as required</li>
+<li>½ cup Milk</li>
+</ul>
+
+<ol class="d_prepar">
+
+<li>Heat water and add ginger and lemongrass. Once it comes to a boil, add tea and allow to boil for 2 minutes.</li>
+<li>Add milk and sugar and simmer for 2 minutes.</li>
+<li>Strain and pour tea.</li>
+</ol>
+ <figcaption class="d_fig">
+ <cite>Article<a href="https://www.foodista.com/recipe/XKK2N6KB/mashed-potato">Ginger Lemongrass Tea Recipe</a>from foodista</cite> </figcaption>
+
+</div>
+
+<div class="d_recipes_card">
+<h1 class="d_recipes_title">
+Scallops With Ginger Carrot Sauce<h1>
+<figure class="d_recipes_img">
+<img src="/images/pexels-rodnae-productions-10432740.jpeg"
+ alt="potato chips">
+ <figcaption class="d_fig">
+ <cite>Photo by<a href="https://www.pexels.com/zh-cn/photo/10432740/">RODNAE Productions</a>from Pexels</cite> </figcaption>
+
+</figure>
+
+<ul class="d_ingre">
+
+<li>5 Scallops</li>
+<li>Salt and freshly ground black pepper</li>
+<li>1 teaspoon Butter</li>
+<li>3 inches Ginger root, peeled and grated</li>
+<li>1 Large carrot, peeled and thinly sliced</li>
+<li>1 tablespoon Water</li>
+<li>250 milliliters Carrot honey juice</li>
+<li>1 tablespoon Dijon mustard</li>
+<li>1 teaspoon Cornstarch</li>
+<li>1 teaspoon Water</li>
+</ul>
+
+<ol class="d_prepar">
+
+
+
+<li>Pat scallops dry with a paper towel. Sprinkle them with a bit of salt and black pepper. To make the ginger juice by peeling and grating the ginger and squeezing out the ginger juice from the grated pieces into a small bowl.</li>
+<li>Peel and thinly slice the carrot. Place them in a microwave-safe bowl with a tablespoon of water and microwave on high for 3 minutes. Remove and add in the carrot honey juice, ginger juice and mustard sauce. Puree the mixture with a handheld blender. Transfer the puree into a saucepan and bring it to a boil. Season the sauce with salt and pepper. Mix the cornstarch with water and add to the sauce, stirring quickly to thicken.</li>
+<li>At the same time, melt the butter in a skillet. Add the scallops and sear on each side for 3-4 minutes until nicely browned. Spoon the sauce in a serving dish, and place the seared scallops in the center. Garnish with parsley if desired.</li>
+</ol>
+ <figcaption class="d_fig">
+ <cite>Article<a href="https://www.foodista.com/recipe/DYBPT7YT/scallops-with-ginger-carrot-sauce">Scallops With Ginger Carrot Sauce</a>from foodista</cite> </figcaption>
+
+</div>
 
 
 </div>
