@@ -45,9 +45,12 @@ html {
       width: 100%;
       height: 100%;
   }
-  
+body{
+    background-color: #decca2;
+  }
   /* ================= ===========================
   ADD YOUR CSS HERE 
+
   ================================================ */
   /* Add your CSS for the site here */
 
