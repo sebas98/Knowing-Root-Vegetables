@@ -46,7 +46,10 @@ tags: navItem
             <div class="historytitle">
                   <h2 class="Taro">Taro</h2>
                   <div class="historyimg">
-                    <img src="images/Taro.jpg" alt="Taro">
+                     <figure>
+                        <img src="images/Taro.jpg" alt="Taro">
+                        <figcaption class="caption"><a href="https://flic.kr/p/yTgMNa">Photo</a> by <a href="https://www.flickr.com/photos/kristi_decourcy/">Kristi</a></figcaption>
+                    </figure>
                 </div>
                   <p class="featuredtext">Taro is one of the most ancient cultivated crops. Taro is found widely in tropical and subtropical regions of South Asia, East Asia, Southeast Asia, Papua New Guinea, and northern Australia and is highly polymorphic, making taxonomy and distinction between wild and cultivated types difficult. It is believed that they were domesticated independently multiple times, with authors giving possible locations as New Guinea, Mainland Southeast Asia, and northeastern India, based largely on the assumed native range of the wild plants. However, more recent studies have pointed out that wild taro may have a much larger native distribution than previously believed, and wild breeding types may also likely be indigenous to other parts of Island Southeast Asia.</p>
                  <p>Archaeological traces of taro exploitation have been recovered from numerous sites, though whether these were cultivated or wild types can not be ascertained. They include the Niah Caves of Borneo around 10,000 years ago,[38] Ille Cave of Palawan, dated to at least 11,000 year ago; Kuk Swamp of New Guinea, dated to between 8250 BC and 7960 BC; and Kilu Cave in the Solomon Islands dated to around 28,000 to 20,000 years ago. In the case of Kuk Swamp, there is evidence of formalized agriculture emerging by about 10,000 years ago, with evidence of cultivated plots, though which plant was cultivated remains unknown.</p>
