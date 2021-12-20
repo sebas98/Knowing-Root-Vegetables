@@ -1,13 +1,12 @@
-<nav>
-  <ul role="list">
-    {% for navItem in collections.navItem %}
-    <li>
-      <a 
-        {% if navItem.url === page.url %}aria-current="page"{% endif %} 
-        href="{{ navItem.url }}">
-          {{ navItem.data.title }}
-      </a>
-    </li>
-    {%- endfor %}
-  </ul>
-</nav>
+
+<nav  class="topnav" id="myTopnav">
+    <ul>
+      <li><h1><a href="/">Knowing Root Vegetables</a></h1></li>
+      <li><a href="/history">History</a></li>
+      <li><a href="/nutritional">Nutritional Benefits</a></li>
+      <li><a href="/consume">Ways to Consume</a></li>
+      <li><a href="/recipes">Recipes</a></li>
+      <li><a href="/about">About</a></li>
+      <li class="icon"><a href="javascript:void(0);" onclick="myFunction()">&#9776;</a></li>
+    </ul>
+  </nav>

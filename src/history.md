@@ -1,6 +1,10 @@
 ---
+title: History
 layout: base.njk
+tags: navItem
 ---
+
+# History
 <article class="history">
           <div class="historytitle">
             <h2 class="Beetroot">Beetroot</h2>
