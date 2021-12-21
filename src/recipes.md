@@ -5,7 +5,7 @@ tags: navItem
 ---
 <div class="d_recipes_wrapper">
 <div class="d_banner">
-<h1 class="d_topic">Nutritional Benefits</h1>
+<h1 class="d_topic">Recipes</h1>
 </div>
 <div class="d_recipes_card">
 <h1 class="d_recipes_title">
