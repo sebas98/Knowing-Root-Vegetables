@@ -4,7 +4,9 @@ layout: base.njk
 tags: navItem
 ---
 <div class="d_nutri_warp">
-<h1>Nutritional Benefits</h1>
+<div class="d_banner">
+<h1 class="d_topic">Nutritional Benefits</h1>
+</div>
 
 <div class="d_card">
 <h2 class="d_title">Ginger</h2>
