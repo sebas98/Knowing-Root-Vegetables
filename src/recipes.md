@@ -5,6 +5,11 @@ tags: navItem
 ---
 <div class="d_recipes_wrapper">
 <div class="d_banner">
+<img src="/images/pexels-daria-shevtsova-1508666.jpeg" alt="">
+</div>
+ <figcaption class="d_fig">
+ <cite>Photo by<a href="https://www.pexels.com/photo/assorted-citrus-fruits-and-vegetables-952476/">Lukas f</a>from Pexels</cite> </figcaption>
+<div class="d_banner">
 <h1 class="d_topic">Recipes</h1>
 </div>
 <div class="d_recipes_card">

@@ -4,8 +4,10 @@ layout: base.njk
 tags: navItem
 ---
 
-# About
-<article class="About article">
+
+<h1 class="d_topic">About</h1>
+
+<article class="About article d_card">
             <div class="aboutimg">
 <figure>
     <img src="/images/rootveg.jpg" alt="Root Vegetables">

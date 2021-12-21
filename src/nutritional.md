@@ -5,8 +5,12 @@ tags: navItem
 ---
 <div class="d_nutri_warp">
 <div class="d_banner">
-<h1 class="d_topic">Nutritional Benefits</h1>
+<img src="/images/pexels-daria-shevtsova-1508666.jpeg" alt="">
 </div>
+<figcaption class="d_fig">
+ <cite>Photo by<a href="https://www.pexels.com/photo/assorted-citrus-fruits-and-vegetables-952476/">Lukas f</a>from Pexels</cite> </figcaption>
+<h1 class="d_topic">Nutritional Benefits</h1>
+
 
 <div class="d_card">
 <h2 class="d_title">Ginger</h2>

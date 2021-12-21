@@ -4,8 +4,15 @@ layout: base.njk
 tags: navItem
 ---
 
-# History
-<article class="history article">
+
+<div class="d_banner">
+<img src="/images/pexels-rodnae-productions-7782981.jpeg" alt="">
+</div>
+<figcaption class="d_fig">
+ <cite>Photo by<a href="https://www.pexels.com/zh-cn/photo/7782981/">RODNAE Productions</a>from Pexels</cite> </figcaption>
+<h1 class="d_topic">History</h1>
+
+<article class="history article d_card">
           <div class="historytitle">
             <h2 class="Beetroot">Beetroot</h2>
             <div class="historyimg">
@@ -21,7 +28,7 @@ tags: navItem
             </div>
           </div>
       </article>
-      <article class="history">
+      <article class="history d_card">
         <div class="historytitle">
           <h2 class="Potato">Potato</h2>
           <div class="historyimg">
@@ -37,7 +44,7 @@ tags: navItem
           </div>
           </div>
        </article>
-    <article class="history">
+    <article class="history d_card">
       <div class="historytitle">
         <h2 class="Carrot">Carrot</h2>
         <div class="historyimg">
@@ -54,7 +61,8 @@ tags: navItem
             <p>Outwardly purple carrots, still orange on the inside, were sold in British stores beginning in 2002.[18]</p>
             </div>
           </div>
-    <article class="history">
+          </article>
+    <article class="history d_card">
             <div class="historytitle">
                   <h2 class="Taro">Taro</h2>
                   <div class="historyimg">
@@ -69,7 +77,7 @@ tags: navItem
                  </div>
             </div>
     </article>
-    <article class="history">
+    <article class="history d_card">
         <div class="historytitle">
           <h2 class="Ginger">Ginger</h2>
           <div class="historyimg">
@@ -83,7 +91,7 @@ tags: navItem
          </div>
         </div>
     </article>
-    <article class="history">
+    <article class="history d_card">
         <div class="historytitle">
           <h2 class="Ginger">Radish</h2>
         <div class="historyimg">

@@ -4,8 +4,15 @@ layout: base.njk
 tags: navItem
 ---
 
-# Ways to Consume
 
+<div class="d_banner">
+<img src="/images/pexels-lukas-952476.png" alt="">
+</div>
+<figcaption class="d_fig">
+ <cite>Photo by<a href="https://www.pexels.com/zh-cn/photo/952476/">Lukas f</a>from Pexels</cite> </figcaption>
+<h1 class="d_topic">Ways to Consume</h1>
+
+<div class="d_card">
 <article class="xs_consume article">
 <h2 class="xs_consume">Beets</h2>
 <div class="xs_image_consume"><img src="/images/consume_beet.jpg" alt="Consume Beets"></div>
@@ -34,7 +41,8 @@ In Northern Germany, beetroot is mashed with Labskaus or added as its side order
  </p>
  <figcaption class="xs_fig">
  <cite>Article<a href="https://en.wikipedia.org/wiki/Beetroot">&nbspBeetroot</a> from Wikipedia</cite> </figcaption>
-
+</div>
+<div class="d_card">
  <h2 class="xs_consume">Potatoes</h2>
 <div class="xs_image_consume"><img src="/images/consume_potato.jpg" alt="Consume Potatoes"></div>
 <figcaption class="xs_fig">
@@ -69,7 +77,8 @@ Highly excessive consumption over a period of time can result in carotenemia, a 
  </p>
  <figcaption class="xs_fig">
  <cite>Article<a href="https://en.wikipedia.org/wiki/Carrot">&nbspCarrot</a> from Wikipedia</cite> </figcaption>
-
+</div>
+<div class="d_card">
  <h2 class="xs_consume">Ginger</h2>
 <div class="xs_image_consume"><img src="/images/consume_ginger.jpg" alt="Consume Ginger"></div>
 <figcaption class="xs_fig">
@@ -88,7 +97,8 @@ Fresh ginger can be substituted for ground ginger at a ratio of six to one, alth
  </p>
  <figcaption class="xs_fig">
  <cite>Article<a href="https://en.wikipedia.org/wiki/Ginger">&nbspGinger</a> from Wikipedia</cite> </figcaption>
-
+</div>
+<div class="d_card">
  <h2 class="xs_consume">Radish</h2>
 <div class="xs_image_consume"><img src="/images/consume_radish.jpg" alt="Consume Radish"></div>
 <figcaption class="xs_fig">
@@ -111,7 +121,8 @@ In Indian cuisine the seed pods are called "moongra" or "mogri" and can be used 
  </p>
  <figcaption class="xs_fig">
  <cite>Article<a href="https://en.wikipedia.org/wiki/Radish">&nbspRadish</a> from Wikipedia</cite> </figcaption>
-
+ </div>
+<div class="d_card">
  <h2 class="xs_consume">Taro</h2>
 <div class="xs_image_consume"><img src="/images/consume_taro.jpg" alt="Consume Taro"></div>
 <figcaption class="xs_fig">
@@ -131,6 +142,6 @@ Corms of the small, round variety are peeled and boiled, then sold either frozen
  </p>
  <figcaption class="xs_fig">
  <cite>Article<a href="https://en.wikipedia.org/wiki/Taro">&nbspTaro</a> from Wikipedia</cite> </figcaption>
-
+</div>
 
 </article>

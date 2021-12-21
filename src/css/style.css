@@ -93,13 +93,19 @@ body{
 
 
  /*======Recipes Page CSS by Dingyu ==========*/
+ /* .home_intro{
+   background-color: white;
+ } */
  .d_recipes_wrapper{
   display: flex;
   flex-direction: column;
   }
-  .d_banner{
-    background-color: white;
-    height: 10em;
+
+  .d_bannerpic,img{
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+
   }
     .d_prepar,.d_ingre{
   font-size: 16px;
@@ -111,16 +117,22 @@ body{
   .d_recipes_card{
     width: 80%;
     height: auto;
-    background-color:white;
+    background-color:rgb(236, 238, 236);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     padding: 1em;
     margin: 1em auto;
     border-radius: 25px;
   }
   .d_topic{
-    color: black;
-    text-align: center;
+    color: white;
+  
+    text-align: left;
     margin:1.5em;
+    font-size: 3em;
+
+  }
+  .d_topic{
+    text-shadow:2px 2px 4px #000000;
   }
 
   /* ======= nutritional page css by Dingyu ====== */
