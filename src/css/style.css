@@ -58,6 +58,11 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 
+  .article{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 15px;
+  }
   /*======CSS by Xenia ==========*/
 
   .xs_wrapper {
@@ -82,10 +87,9 @@ body{
 		.xs_image_consume{
 			width:100%;
 		}
+  }
 
-    .article{
-      max-width: 1000px;
-    }
+    
 
 
  /*======Recipes Page CSS by Dingyu ==========*/
@@ -180,3 +184,5 @@ img {
     width:100%;
   }
 
+
+  
