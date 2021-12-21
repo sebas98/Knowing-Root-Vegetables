@@ -6,7 +6,7 @@ tags: navItem
 
 # Ways to Consume
 
-<article class="xs_consume">
+<article class="xs_consume article">
 <h2 class="xs_consume">Beets</h2>
 <div class="xs_image_consume"><img src="/images/consume_beet.jpg" alt="Consume Beets"></div>
 <figcaption class="xs_fig">

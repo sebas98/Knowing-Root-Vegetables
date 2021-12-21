@@ -5,7 +5,7 @@ tags: navItem
 ---
 
 # History
-<article class="history">
+<article class="history article">
           <div class="historytitle">
             <h2 class="Beetroot">Beetroot</h2>
             <div class="historyimg">

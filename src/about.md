@@ -5,7 +5,7 @@ tags: navItem
 ---
 
 # About
-<article class="About">
+<article class="About article">
             <div class="aboutimg">
 <figure>
     <img src="/images/rootveg.jpg" alt="Root Vegetables">
