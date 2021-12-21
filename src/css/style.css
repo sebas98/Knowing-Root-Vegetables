@@ -58,7 +58,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 
-  .article{
+  .maincontent{
     max-width: 1000px;
     margin: 0 auto;
     padding: 15px;

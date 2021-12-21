@@ -21,7 +21,7 @@ tags: navItem
             </div>
           </div>
       </article>
-      <article class="history">
+      <article class="history article">
         <div class="historytitle">
           <h2 class="Potato">Potato</h2>
           <div class="historyimg">
