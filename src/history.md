@@ -11,7 +11,7 @@ tags: navItem
             <div class="historyimg">
                      <figure>
                         <img src="/images/Beetroot.jpg" alt="Beetroot">
-                        <figcaption class="caption"><a href="https://flic.kr/p/PWhVPu">Photo</a> by <a href="https://www.flickr.com/photos/87293058@N03/">Paco RM</a></figcaption>
+                        <figcaption class="s_cap"><a href="https://flic.kr/p/PWhVPu">Photo</a> by <a href="https://www.flickr.com/photos/87293058@N03/">Paco RM</a></figcaption>
                     </figure>
                 </div>
             <p class="featuredtext">Humans originally ate beet greens but not the thin and fibrous roots, which were occasionally used in medicine. The large beet leaves and stalks were consumed like chard, a close relative. Despite only growing well during spring and fall, beets were so well regarded in Ancient Rome and Greece that methods were developed for producing them during the hot summer months. The root part of the beet was cultivated for consumption in either Germany or Italy, first recorded in 1542. Its earliest form more closely resembled a parsnip rather than the bulbous shape were now familiar with, which began appearing near the end of the 1500s. This variety is thought to have evolved from a prehistoric North African root vegetable. Soon it became the most recognizable form of beet, but it wasnt a worldwide culinary success until two centuries later. Northeastern Europe was the first area to embrace the beet root as a dietary staple; it was valued as one of the only vegetables that grew well throughout winter. </p>
@@ -26,7 +26,7 @@ tags: navItem
           <div class="historyimg">
                      <figure>
                         <img src="/images/Potato.jpg" alt="Potato">
-                        <figcaption class="caption"><a href="https://flic.kr/p/JvZ7ZV">Photo</a> by <a href="https://www.flickr.com/photos/154923674@N03/">Light Therapy</a></figcaption>
+                        <figcaption class="s_cap"><a href="https://flic.kr/p/JvZ7ZV">Photo</a> by <a href="https://www.flickr.com/photos/154923674@N03/">Light Therapy</a></figcaption>
                     </figure>
                 </div>
           <p class="featuredtext">Potato, indigenous flowering plants of the South America and the Andes mountains (modern-day southern Peru and northwestern Bolivia) managed to prove its usefulness to our ancestors, who cultivated it, nurtured it, and ensured its survival during the last 10,000 years of our history. Centuries after they were introduced to Europe and North America, potatoes represent one of the most important parts of world’s cuisine and the fourth-largest food crop in the entire world (following maize, rice and wheat). Today, extensive research and the centuries of selective breeding, we now have access to over thousand different types of potatoes that are grown all around the word.</p>
@@ -37,10 +37,12 @@ tags: navItem
         </div>
     </article>
     <article class="history">
+        <div class="historytitle">
+          <h2 class="Ginger">Radish</h2>
         <div class="historyimg">
                      <figure>
                         <img src="/images/Carrot.jpg" alt="Carrot">
-                        <figcaption class="caption"><a href="https://flic.kr/p/NqW8wt">Photo</a> by <a href="https://www.flickr.com/photos/hayashina/">Hayashina</a></figcaption>
+                        <figcaption class="s_cap"><a href="https://flic.kr/p/NqW8wt">Photo</a> by <a href="https://www.flickr.com/photos/hayashina/">Hayashina</a></figcaption>
                     </figure>
                 </div>
           <p class="featuredtext">Both written history and molecular genetic studies indicate that the domestic carrot has a single origin in Central Asia. Its wild ancestors probably originated in Persia (regions of which are now Iran and Afghanistan), which remains the centre of diversity for the wild carrot Daucus carota. A naturally occurring subspecies of the wild carrot was presumably bred selectively over the centuries to reduce bitterness, increase sweetness and minimise the woody core; this process produced the familiar garden vegetable.</p>
@@ -55,7 +57,7 @@ tags: navItem
                   <div class="historyimg">
                      <figure>
                         <img src="/images/Taro.jpg" alt="Taro">
-                        <figcaption class="caption"><a href="https://flic.kr/p/yTgMNa">Photo</a> by <a href="https://www.flickr.com/photos/kristi_decourcy/">Kristi</a></figcaption>
+                        <figcaption class="s_cap"><a href="https://flic.kr/p/yTgMNa">Photo</a> by <a href="https://www.flickr.com/photos/kristi_decourcy/">Kristi</a></figcaption>
                     </figure>
                 </div>
                   <p class="featuredtext">Taro is one of the most ancient cultivated crops. Taro is found widely in tropical and subtropical regions of South Asia, East Asia, Southeast Asia, Papua New Guinea, and northern Australia and is highly polymorphic, making taxonomy and distinction between wild and cultivated types difficult. It is believed that they were domesticated independently multiple times, with authors giving possible locations as New Guinea, Mainland Southeast Asia, and northeastern India, based largely on the assumed native range of the wild plants. However, more recent studies have pointed out that wild taro may have a much larger native distribution than previously believed, and wild breeding types may also likely be indigenous to other parts of Island Southeast Asia.</p>
@@ -69,7 +71,7 @@ tags: navItem
           <div class="historyimg">
           <figure>
                         <img src="/images/Ginger.jpg" alt="Ginger">
-                        <figcaption class="caption"><a href="https://flic.kr/p/Zokkp">Photo</a> by <a href="https://www.flickr.com/photos/185548887@N04/">Nancy Liza</a></figcaption>
+                        <figcaption class="s_cap"><a href="https://flic.kr/p/Zokkp">Photo</a> by <a href="https://www.flickr.com/photos/185548887@N04/">Nancy Liza</a></figcaption>
             </figure>
           </div>
           <p class="featuredtext">The first written record of ginger comes from the Analects of Confucius, written in China during the Warring States period (475–221 BC). In it, Confucius was said to eat ginger with every meal. In 406 AD, the monk Faxian wrote that ginger was grown in pots and carried on Chinese ships to prevent scurvy. During the Song Dynasty (960–1279), ginger was being imported into China from southern countries.</p>
@@ -77,10 +79,12 @@ tags: navItem
         </div>
     </article>
     <article class="history">
+        <div class="historytitle">
+          <h2 class="Ginger">Radish</h2>
         <div class="historyimg">
                      <figure>
                         <img src="/images/Radish.jpg" alt="Radish">
-                        <figcaption class="caption"><a href="https://flic.kr/p/2jRtD5Z">Photo</a> by <a href="https://www.flickr.com/photos/kristi_decourcy/">Kristi</a></figcaption>
+                        <figcaption class="s_cap"><a href="https://flic.kr/p/2jRtD5Z">Photo</a> by <a href="https://www.flickr.com/photos/kristi_decourcy/">Kristi</a></figcaption>
                     </figure>
                 </div>
           <p class="featuredtext">Varieties of radish are now broadly distributed around the world, but almost no archeological records are available to help determine their early history and domestication. However, scientists have tentatively located the origin of Raphanus sativus in Southeast Asia, as this is the only region where truly wild forms have been discovered. India, central China, and Central Asia appear to have been secondary centers where differing forms were developed. Radishes enter the historical record in third century BC. Greek and Roman agriculturalists of the first century AD gave details of small, large, round, long, mild, and sharp varieties. The radish seems to have been one of the first European crops introduced to the Americas. A German botanist reported radishes of 45 kilograms (100 pounds) and roughly 90 centimetres (3 feet) in length in 1544, although the only variety of that size today is the Japanese Sakurajima radish. The large, mild, and white East Asian form was developed in China, though it is mostly associated in the West with the Japanese daikon, owing to Japanese agricultural development and larger exports.</p>
