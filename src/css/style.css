@@ -58,7 +58,10 @@ body{
  .d_recipes_wrapper{
   display: flex;
   flex-direction: column;
-  
+  }
+  .d_banner{
+    background-color: white;
+    height: 10em;
   }
     .d_prepar,.d_ingre{
   font-size: 16px;
@@ -73,15 +76,20 @@ body{
     background-color:white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     padding: 1em;
-    margin: 0.25em;
+    margin: 1em auto;
     border-radius: 25px;
-  
+  }
+  .d_topic{
+    color: black;
+    text-align: center;
+    margin:1.5em;
   }
 
-  /* ======= nutritional page css bu Dingyu ====== */
+  /* ======= nutritional page css by Dingyu ====== */
   .d_nutri_warp{
     display: flex;
     flex-direction: column;
+
   }
   .d_card{
     width: 80%;
@@ -89,11 +97,13 @@ body{
     background-color:white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     padding: 1em;
-    margin: 0.25em;
+    margin: 1em auto;
     border-radius: 25px;
+
   }
+
   .d_nutri_img img{
     height: 500px;
-  
   }
+
 /* =============End Dingyu's Css=================   */
